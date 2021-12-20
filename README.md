@@ -8,6 +8,7 @@ lorem ipsum, it's time for lunch
 
 Here are my my food options:
 
-sushi
-chicken rice
-
+-sushi
+-chicken rice
+-wonton noodle
+-char kway teow
